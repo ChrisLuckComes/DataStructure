@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "esnext",
+        "lib": [
+            "esnext"
+        ],
+        "allowJs": true
+    },
+    "include": [
+        "src",
+        "index.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
